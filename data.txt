@@ -1,0 +1,244 @@
+50 193
+Algiers 36.7357182 3.0873605
+Islamabad 33.6994939 73.0363045
+Canada 52.9429151 -106.4430095
+Dammam 26.3988141 50.1082156
+Tokyo 35.7079711 139.4896618
+Moscow 55.7536177 37.6196716
+Kabul 34.575503 69.240073
+Vienna 48.208174 16.373819
+Helsinki 60.173324 24.941025
+Stockholm 59.329323 18.068581
+Riyadh 24.7135517 46.6752957
+Nuuk 64.18141 -51.694138
+Oslo 59.913869 10.752245
+London 51.507351 -0.127758
+Reykjavík 64.126521 -21.817439
+Ulaanbaatar 47.886399 106.905744
+Beijing 39.904211 116.407395
+Pyongyang 39.039219 125.762524
+Seoul 37.566535 126.977969
+Astana 51.160523 71.470356
+Tripoli 32.887209 13.191338
+Cairo 30.04442 31.235712
+Tunis 36.806495 10.181532
+Rabat 33.97159 -6.849813
+Jerusalem 31.771959 35.217018
+Amman 31.956578 35.945695
+Beirut 33.888629 35.495479
+Damascus 33.513807 36.276528
+Baghdad 33.312806 44.361488
+Ankara 39.933364 32.859742
+Tehran 35.689198 51.388974
+Kabul 34.575503 69.240073
+Athens 37.983917 23.72936
+Rome 41.902784 12.496366
+Paris 48.856614 2.352222
+Madrid 40.416775 -3.70379
+Washington 38.907192 -77.036871
+Kuwait-City 29.375859 47.977405
+MexicoCity 19.432608 -99.133208
+Havana 23.05407 -82.345189
+Juba 4.859363 31.57125
+Khartoum 15.500654 32.559899
+Windhoek -22.560881 17.065755
+Canberra -35.282 149.128684
+Bogotá 4.710989 -74.072092
+Berlin 52.520007 13.404954
+Lisbon 38.722252 -9.139337
+Lima -12.046374 -77.042793
+Santiago -33.44889 -70.669265
+Djamena 12.134846 15.055742
+Algiers Tunis $200 240min
+Algiers Rabat $172 450min
+Algiers Tripoli $196 360min
+Algiers Cairo $203 446min
+Algiers Rome $128 240min
+Algiers Lisbon $102 240min
+Islamabad Kabul $204 60min
+Islamabad Tehran $259 540min
+Islamabad Beijing $511 390min
+Islamabad Amman $182 567min
+Dammam Riyadh $96 180min
+Dammam Baghdad $181 480min
+Dammam Amman $76 420min
+Dammam Jerusalem $70 120min
+Dammam Damascus $426 480min
+Canada Washington $225 240min
+Canada MexicoCity $304 600min
+Canada Nuuk $450 300min
+Canada Havana $410 360min
+Canada Bogotá $620 480min
+Tokyo Seoul $180 120min
+Tokyo Pyongyang $300 180min
+Tokyo Beijing $370 240min
+Tokyo Ulaanbaatar $460 300min
+Tokyo Astana $600 420min
+Moscow Helsinki $200 120min
+Moscow Oslo $250 180min
+Moscow Stockholm $270 180min
+Moscow Vienna $380 240min
+Moscow Berlin $320 180min
+Kabul Islamabad $204 60min
+Kabul Tehran $290 180min
+Kabul Beijing $510 360min
+Kabul Astana $420 300min
+Kabul Amman $450 360min
+Vienna Berlin $200 120min
+Vienna Rome $230 120min
+Vienna Paris $280 180min
+Vienna Athens $300 180min
+Helsinki Oslo $150 120min
+Helsinki Stockholm $160 60min
+Helsinki Berlin $280 180min
+Helsinki Moscow $200 120min
+Stockholm Oslo $140 60min
+Stockholm Helsinki $160 60min
+Stockholm Berlin $250 120min
+Stockholm Moscow $270 180min
+Riyadh Baghdad $230 120min
+Riyadh Amman $260 180min
+Riyadh Damascus $290 240min
+Riyadh Tehran $400 300min
+Riyadh Cairo $370 240min
+Nuuk Reykjavík $320 180min
+Nuuk Oslo $500 360min
+Nuuk London $550 420min
+Nuuk Lisbon $600 480min
+Oslo Helsinki $150 120min
+Oslo Stockholm $160 60min
+Oslo Berlin $250 120min
+Oslo Reykjavík $350 180min
+London Paris $150 60min
+London Berlin $220 120min
+London Lisbon $250 120min
+London Madrid $280 180min
+London Washington $550 480min
+Reykjavík Nuuk $320 180min
+Reykjavík Oslo $350 180min
+Reykjavík London $400 240min
+Reykjavík Lisbon $500 360min
+Ulaanbaatar Beijing $280 120min
+Ulaanbaatar Seoul $350 180min
+Ulaanbaatar Pyongyang $420 240min
+Ulaanbaatar Tokyo $460 300min
+Ulaanbaatar Astana $400 240min
+Beijing Seoul $250 120min
+Beijing Pyongyang $300 180min
+Beijing Ulaanbaatar $280 120min
+Beijing Tokyo $370 240min
+Pyongyang Seoul $280 120min
+Pyongyang Beijing $300 180min
+Pyongyang Tokyo $420 240min
+Pyongyang Ulaanbaatar $420 240min
+Seoul Beijing $250 120min
+Seoul Pyongyang $280 120min
+Seoul Tokyo $180 120min
+Seoul Ulaanbaatar $350 180min
+Astana Ulaanbaatar $400 240min
+Astana Beijing $450 300min
+Astana Pyongyang $500 360min
+Astana Seoul $480 300min
+Astana Moscow $300 180min
+Tripoli Tunis $120 60min
+Tripoli Algiers $196 300min
+Tripoli Cairo $250 180min
+Tripoli Athens $280 180min
+Tripoli Rome $300 240min
+Cairo Jerusalem $150 60min
+Cairo Amman $200 60min
+Cairo Riyadh $370 240min
+Cairo Baghdad $350 180min
+Cairo Algiers $203 420min
+Cairo Tripoli $250 180min
+Tunis Algiers $200 240min
+Tunis Tripoli $120 60min
+Tunis Rome $180 120min
+Tunis Rabat $210 180min
+Tunis Cairo $230 180min
+Tunis Athens $260 180min
+Rabat Algiers $172 420min
+Rabat Lisbon $180 120min
+Rabat Madrid $200 120min
+Rabat Tripoli $250 240min
+Jerusalem Amman $80 60min
+Jerusalem Damascus $110 120min
+Jerusalem Cairo $150 60min
+Jerusalem Baghdad $300 180min
+Jerusalem Riyadh $250 120min
+Amman Jerusalem $80 60min
+Amman Damascus $100 120min
+Amman Cairo $200 60min
+Amman Baghdad $230 120min
+Amman Riyadh $260 180min
+Beirut Jerusalem $150 120min
+Beirut Damascus $100 60min
+Beirut Cairo $200 120min
+Beirut Baghdad $300 180min
+Beirut Ankara $350 240min
+Damascus Jerusalem $110 120min
+Damascus Amman $100 120min
+Damascus Baghdad $250 180min
+Damascus Riyadh $290 240min
+Damascus Ankara $320 180min
+Baghdad Riyadh $230 120min
+Baghdad Damascus $250 180min
+Baghdad Amman $230 120min
+Baghdad Tehran $270 120min
+Baghdad Jerusalem $300 180min
+Ankara Beirut $350 240min
+Ankara Damascus $320 180min
+Ankara Baghdad $400 240min
+Ankara Tehran $450 300min
+Ankara Athens $300 180min
+Tehran Baghdad $270 120min
+Tehran Riyadh $400 300min
+Tehran Kabul $290 180min
+Tehran Islamabad $259 540min
+Tehran Ankara $450 300min
+Kabul Islamabad $204 60min
+Kabul Tehran $290 180min
+Kabul Amman $450 360min
+Kabul Baghdad $470 360min
+Athens Rome $300 180min
+Athens Ankara $300 180min
+Athens Tripoli $280 180min
+Athens Tunis $260 180min
+Athens Cairo $300 180min
+Rome Athens $300 180min
+Rome Vienna $230 120min
+Rome Paris $280 180min
+Rome Madrid $350 240min
+Rome Algiers $128 240min
+Paris London $150 60min
+Paris Vienna $280 180min
+Paris Berlin $250 120min
+Paris Madrid $300 180min
+Paris Lisbon $350 240min
+Madrid Lisbon $180 120min
+Madrid Paris $300 180min
+Madrid Rabat $200 120min
+Madrid Rome $350 240min
+Madrid Algiers $128 240min
+Washington MexicoCity $300 300min
+Washington Havana $250 180min
+Washington Bogotá $500 360min
+Berlin Paris $250 120min
+Berlin London $220 120min
+Berlin Rome $320 180min
+Berlin Moscow $320 180min
+Lisbon Madrid $180 120min
+Lisbon Paris $350 240min
+Lisbon Rabat $180 120min
+Lisbon Rome $350 240min
+Lisbon Algiers $102 240min
+Lima Bogotá $300 180min
+Lima MexicoCity $450 360min
+Lima Santiago $350 240min
+Lima Havana $500 420min
+Santiago Lima $350 240min
+Santiago Bogotá $400 300min
+Santiago MexicoCity $500 360min
+Djamena Khartoum $300 240min
+Djamena Juba $320 180min
+Djamena Cairo $450 300min
